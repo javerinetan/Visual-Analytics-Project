@@ -12,7 +12,7 @@ Based on the report, it seems that Singapore is a good place to live / work in. 
 
 Is Singapore a good place to live/work in?
 
-📝:Sub Hypothesis
+📝 Sub Hypothesis
 
 - Damian :Saftey (Singapore is a very safe country)
 - Natelie : Education (Singapore has a good education system)

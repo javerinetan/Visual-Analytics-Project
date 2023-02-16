@@ -24,11 +24,24 @@ Is Singapore a good place to live/work in?
 ## Date
 12/12/2022 - 14/2/2022
 
+## Goals 
+
+Our main objective is to allow users to better understand Singapore's standard of living using data analysis by providing an informed perception to our target audience.
+
 ## Work Process 
+
+💜 Survey 
+
+- We conducted a comprehensive survey consisting of 10 questions to gain insight into our users' perspectives on Singapore.
+- Each topic selected for the survey included 2-3 questions designed to understand which factors are important to consider when living or working in Singapore.
+- The survey aimed to provide valuable feedback on a range of topics, such as housing, safety, healthcare, and education in Singapore.
+- The survey results would be used to inform our future plans and strategies and to better cater to the needs and preferences of our users.
 
 🗣️ Interview 
 
-Our main objective is to allow users to better understand Singapore's standard of living using data analysis by providing an informed perception to our target audience.
+To be able to understand our users more in depth, w
+
+
 
 
 ## Feedback Recieved For Presentation 

@@ -30,7 +30,7 @@ Our main objective is to allow users to better understand Singapore's standard o
 
 ## Pitching Work Process
 
-🔗 <a href="https://1drv.ms/w/s!AqPqZBpzzZYljc8JYn6OdTlpkXbXWQ?e=sU0zlc" target="_blank"> Click to view Pitching Report</a>
+🔗 <a href="https://1drv.ms/w/s!AqPqZBpzzZYljc8JYn6OdTlpkXbXWQ?e=sU0zlc](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:e958c762-5b68-4bfa-a4dd-bcf7ff827c1a)" target="_blank"> Click to view Pitching Report</a>
 
 💜 Survey 
 

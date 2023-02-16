@@ -48,8 +48,11 @@ Our main objective is to allow users to better understand Singapore's standard o
 - The insights gained from the interviews will be used to inform our future plans and strategies to better serve our users.
 - The question that help us best to understand our target users was "If you could create a country, what would it be like?", which gave us unrestricted space to share their dreams and desires, enabling us to gather perspectives that we might have otherwise missed.
 
-👤 Creating User Persona 
-![image](https://user-images.githubusercontent.com/90853880/219357180-871a03d8-a3f0-4acb-ac32-7534e829851a.png)
+👤 Creating User Persona for interviews conducted by me
+
+![image](https://user-images.githubusercontent.com/90853880/219357328-ba2d8be8-9bc2-40e7-ad9d-49d38ca2d2a6.png)
+![image](https://user-images.githubusercontent.com/90853880/219357384-a94da395-5951-4b71-b81f-4cd6f8cbd1b1.png)
+![image](https://user-images.githubusercontent.com/90853880/219357442-66d7b9d4-ae41-4436-99f6-a1906fcc6de6.png)
 
 
 

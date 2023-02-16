@@ -28,7 +28,9 @@ Is Singapore a good place to live/work in?
 
 Our main objective is to allow users to better understand Singapore's standard of living using data analysis by providing an informed perception to our target audience.
 
-## Work Process 
+## Pitching Work Process
+
+🔗 <a href="https://1drv.ms/w/s!AqPqZBpzzZYljc8JYn6OdTlpkXbXWQ?e=sU0zlc" target="_blank"> Click to view Pitching Report</a>
 
 💜 Survey 
 
@@ -44,6 +46,9 @@ Our main objective is to allow users to better understand Singapore's standard o
 - Interviewees were selected based on factors such as age, gender, occupation, nationality, and length of time spent living in Singapore.
 - The interviews helped us to understand our users' needs, preferences, challenges, experiences, and perceptions of living and working in Singapore.
 - The insights gained from the interviews will be used to inform our future plans and strategies to better serve our users.
+- The question that help us best to understand our target users was "If you could create a country, what would it be like?", which gave us unrestricted space to share their dreams and desires, enabling us to gather perspectives that we might have otherwise missed.
+
+👤 Creating User Persona 
 
 
 

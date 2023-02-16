@@ -19,6 +19,8 @@ Is Singapore a good place to live/work in?
 - Amber: Healthcare (Singapore has a good healthcare system)
 - Javerine: Housing (Singapore has a good housing infrastructure)
 
+## Date
+12/12/2022 - 14/2/2022
 
 ## Feedback Recieved For Presentation 
 - "Excellent visualization"

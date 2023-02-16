@@ -1,6 +1,8 @@
 # Visual-Analytics-Project
 🏆Nominated DAAA Outstanding Project Presentation
 
+![image](https://user-images.githubusercontent.com/90853880/219352486-78b86cdd-ea62-40a8-bd01-c487f8d6b04f.png)
+
 ## Project Scope
 ✍️ Project Task
 
@@ -21,6 +23,13 @@ Is Singapore a good place to live/work in?
 
 ## Date
 12/12/2022 - 14/2/2022
+
+## Work Process 
+
+🗣️ Interview 
+
+Our main objective is to allow users to better understand Singapore's standard of living using data analysis by providing an informed perception to our target audience.
+
 
 ## Feedback Recieved For Presentation 
 - "Excellent visualization"

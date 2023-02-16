@@ -39,7 +39,11 @@ Our main objective is to allow users to better understand Singapore's standard o
 
 🗣️ Interview 
 
-To be able to understand our users more in depth, w
+- We conducted eight in-depth interviews to gain a more comprehensive understanding of our target users.
+- The interviews were designed to elicit valuable insights from individuals with diverse backgrounds and experiences.
+- Interviewees were selected based on factors such as age, gender, occupation, nationality, and length of time spent living in Singapore.
+- The interviews helped us to understand our users' needs, preferences, challenges, experiences, and perceptions of living and working in Singapore.
+- The insights gained from the interviews will be used to inform our future plans and strategies to better serve our users.
 
 
 

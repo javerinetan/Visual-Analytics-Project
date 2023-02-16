@@ -54,6 +54,17 @@ Our main objective is to allow users to better understand Singapore's standard o
 ![image](https://user-images.githubusercontent.com/90853880/219357384-a94da395-5951-4b71-b81f-4cd6f8cbd1b1.png)
 ![image](https://user-images.githubusercontent.com/90853880/219357442-66d7b9d4-ae41-4436-99f6-a1906fcc6de6.png)
 
+## Data Preparation & Modelling Work Process 
+
+🔗 <a href="https://1drv.ms/w/s!AqPqZBpzzZYljcsdN9gqnpvJf2yC0Q?e=fr9yP1" target="_blank"> Click to view Data Preparation & Modelling Report</a>
+
+📜 Scope of Datasets 
+
+
+🔖 Data Preparation 
+
+
+💻 Data Visulization 
 
 
 ## Feedback Recieved For Presentation 

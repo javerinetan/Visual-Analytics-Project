@@ -49,7 +49,7 @@ Our main objective is to allow users to better understand Singapore's standard o
 - The question that help us best to understand our target users was "If you could create a country, what would it be like?", which gave us unrestricted space to share their dreams and desires, enabling us to gather perspectives that we might have otherwise missed.
 
 👤 Creating User Persona 
-
+![image](https://user-images.githubusercontent.com/90853880/219357180-871a03d8-a3f0-4acb-ac32-7534e829851a.png)
 
 
 

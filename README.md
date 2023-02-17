@@ -63,10 +63,12 @@ Our main objective is to allow users to better understand Singapore's standard o
 - Datasets were taken from singstat and gov.sg 
 - A total of 16 datasets was collected 
 
-🔖 Data Preparation 
-
-
 💻 Data Visulization 
+- Housing Grants 
+- Resale Price 
+- Storey Range and Remaining Lease 
+- Resale Price Anaylsis 
+- Global Market
 
 
 ## Feedback Recieved For Presentation 

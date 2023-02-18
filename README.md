@@ -85,7 +85,8 @@ Our main objective is to allow users to better understand Singapore's standard o
 
 ![image](https://user-images.githubusercontent.com/90853880/219880889-1c57d97a-1463-4f05-9579-6bff5f844639.png)
 
-💻 Data Visulization (Dashboard by me) 
+
+## Outcome & Results Achieved 
 
 ![image](https://user-images.githubusercontent.com/90853880/219881176-7bbeeaec-9508-4530-8d77-8d7b6198e209.png)
 ![image](https://user-images.githubusercontent.com/90853880/219881198-49d58f51-28f6-4510-950c-ed31dbb2866d.png)

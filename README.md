@@ -89,10 +89,29 @@ Our main objective is to allow users to better understand Singapore's standard o
 ## Outcome & Results Achieved 
 
 ![image](https://user-images.githubusercontent.com/90853880/219881176-7bbeeaec-9508-4530-8d77-8d7b6198e209.png)
+This report provides an overview of the different types of housing grants available in Singapore. Users can select the Housing Grant Scheme they want to learn about and choose their preferred flat type to see the estimated prices with grants provided. It was observed that the general trend for housing prices after the grant has been provided is a decrease, making housing more affordable for citizens. Based on the forecast selling price, it is predicted that housing grants would continue to help make housing more affordable. Overall, housing grants in Singapore play a crucial role in helping citizens attain their dream of owning a home and are increasingly accessible and beneficial with more subsidies provided.
+
+
 ![image](https://user-images.githubusercontent.com/90853880/219881198-49d58f51-28f6-4510-950c-ed31dbb2866d.png)
+This report focuses on addressing users' top priorities when searching for housing, namely location and cost. I used a heat map to show median prices per area square and a line graph to demonstrate the impact of distance on housing prices. A pie chart estimated costs based on flat type, and a Town slicer allowed users to search for specific locations. These interactive features provide a personalized and accurate understanding of the housing market.
+
+
 ![image](https://user-images.githubusercontent.com/90853880/219881206-88e8d1ac-8b10-4fdc-bb64-cfe51b80139f.png)
+The factors of Storey Range and Remaining Lease are commonly brought up by housing buyers, so I conducted a linear regression analysis to investigate their impact on resale price. The analysis showed a strong correlation between storey range and resale price for 3-ROOM, 4-ROOM, and 5-ROOM flats, highlighting the importance of considering this factor when purchasing these types of flats. However, remaining lease showed a weak positive relationship with resale price, indicating that other factors have a greater influence. Overall, the analysis provides valuable insights for buyers, allowing them to make informed decisions when considering these factors.
+
+
 ![image](https://user-images.githubusercontent.com/90853880/219881221-4629fff1-1de6-4ec0-93cc-07777c3cf1f6.png)
+To provide a more comprehensive analysis of resale prices, I have included visuals showing maximum, average, and minimum trends, highlighting that while resale prices may seem to be increasing, they have remained relatively constant. Additionally, I forecasted resale price trends for 2023 to help users determine the best time to purchase a house.
+
+I also conducted an analysis of key influencers on housing prices and found that Bukit Timah had the most significant impact on resale prices, followed by Bishan and the Central Area, with an average resale price of $443,238.35. This information provides valuable insights for prospective homebuyers in these areas, helping them understand what to expect in terms of pricing.
+
+Lastly, I utilized a decomposition tree to display the information on which types of units tend to be more expensive and which towns have higher prices for those types of units. This visual aids users in making more informed decisions by providing a better understanding of the factors that influence resale prices in different areas.
+
+
 ![image](https://user-images.githubusercontent.com/90853880/219881235-564a4007-60be-4683-9dd1-defed441e194.png)
+I provide users with viewing options for market trends: the button for viewing data by country shows an overall understanding of market trends across different countries, while the button for viewing data by city offers a detailed view of how specific cities are performing. This flexibility helps users make informed decisions based on their requirements.
+
+I use KPI visuals to show Singapore's ranking among 482 cities and 112 countries, indicating that it is not affordable overall. However, since different countries have varying standards of living, environments, and other factors, I allow users to choose the countries they want to compare. Using the city or country slicer, they can compare cities based on the Price to Income Ratio and affordability index. For instance, comparing Singapore to other First World countries like the United States, Germany, and Canada, shows that Singapore's housing market is satisfactory in terms of affordability.
 
 
 ## Conclusion 

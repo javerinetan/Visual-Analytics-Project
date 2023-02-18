@@ -1,4 +1,4 @@
-# Visual-Analytics-Project
+# Visual Analytics Project
 🏆Nominated DAAA Outstanding Project Presentation
 
 ![image](https://user-images.githubusercontent.com/90853880/219352486-78b86cdd-ea62-40a8-bd01-c487f8d6b04f.png)

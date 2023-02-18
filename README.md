@@ -60,20 +60,42 @@ Our main objective is to allow users to better understand Singapore's standard o
 
 📜 Scope of Datasets 
 
-- Datasets were taken from singstat and gov.sg 
+- Datasets were taken from singstat and gov.sg which are from reliable government statistical sites 
 - A total of 16 datasets was collected 
 
-💻 Data Visulization 
-- Housing Grants 
+📜 Data Preparation 
 
-- Resale Price 
+- After downloading my datasets, I started to clean my data: 
+  - Rename Columns to remove underscores and commas 
+  - Rename Table to readable and with easy understanding of the datasets it contain's
+  - Transpose tables that requires 
+  - Remove extra datasets years which I will not be using 
 
-- Storey Range and Remaining Lease 
+## Final Project Repprt 
 
-- Resale Price Anaylsis 
+🔗 <a href="https://1drv.ms/w/s!Avw3ecsQ9at4gu9bgW1HCG1OfqERgg?e=CSLTJA" target="_blank"> Click to view Final Project Repprt </a>
 
-- Global Market
+🤝 Integration 
+- To allow the smooth process of integrating our work, we have use two days coming toegther to individual add in our datasets and working through our report
+- After all of us were done with the data preparation, we had discuss the ideas to make our report more usefriendly 
 
+✍ Creating with user in mind 
+- With our user in mind, we wanted to create a dashboard that will attract the users to use and with ease 
+- We create a navigation bar and a main page which allow our users to view all 4 factors 
+
+![image](https://user-images.githubusercontent.com/90853880/219880889-1c57d97a-1463-4f05-9579-6bff5f844639.png)
+
+💻 Data Visulization (Dashboard by me) 
+
+![image](https://user-images.githubusercontent.com/90853880/219881176-7bbeeaec-9508-4530-8d77-8d7b6198e209.png)
+![image](https://user-images.githubusercontent.com/90853880/219881198-49d58f51-28f6-4510-950c-ed31dbb2866d.png)
+![image](https://user-images.githubusercontent.com/90853880/219881206-88e8d1ac-8b10-4fdc-bb64-cfe51b80139f.png)
+![image](https://user-images.githubusercontent.com/90853880/219881221-4629fff1-1de6-4ec0-93cc-07777c3cf1f6.png)
+![image](https://user-images.githubusercontent.com/90853880/219881235-564a4007-60be-4683-9dd1-defed441e194.png)
+
+
+## Conclusion 
+In conclusion, Singapore provides a high-quality and accessible housing environment for its residents, with about 90% of the population being accommodated. The government has implemented various initiative, such as the Enhance CPF Housing Grant (EHG), to help citizens afford homes. However, potential home buyers should keep in mind that location and unit size can greatly impact the cost of housing. While Singapore may not rank as the most affordable compared to other countries, it provides a high standard of living and factors such as the environment should be also be considered when evaluating the overall cost of living. Ultimately, it is up to the individual to determine their own criteria for comparison to other countries. 
 
 
 ## Feedback Recieved For Presentation 

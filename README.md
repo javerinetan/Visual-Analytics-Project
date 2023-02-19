@@ -117,6 +117,9 @@ I use KPI visuals to show Singapore's ranking among 482 cities and 112 countries
 ## Conclusion 
 In conclusion, Singapore provides a high-quality and accessible housing environment for its residents, with about 90% of the population being accommodated. The government has implemented various initiative, such as the Enhance CPF Housing Grant (EHG), to help citizens afford homes. However, potential home buyers should keep in mind that location and unit size can greatly impact the cost of housing. While Singapore may not rank as the most affordable compared to other countries, it provides a high standard of living and factors such as the environment should be also be considered when evaluating the overall cost of living. Ultimately, it is up to the individual to determine their own criteria for comparison to other countries. 
 
+## Difficulties 
+- Finding datasets that were reliable and meets my user requirements was a challenge 
+  - With hourse spend on researching and helps from seniors, I was able to achieve what I have today 
 
 ## Feedback Recieved For Presentation 
 - "Excellent visualization"
@@ -127,3 +130,6 @@ In conclusion, Singapore provides a high-quality and accessible housing environm
 - Our work was praised and been requested to be use for open house and orientation. 
 - The teachers have also requested for our scripts to also be submitted
 - Overall execllent presentation. 
+
+## Acknowledgement
+I am deeply grateful to my group mates for being the most supportive and helpful teammates throughout the project. Their constant encouragement and assistance made the journey a smooth and enjoyable one.

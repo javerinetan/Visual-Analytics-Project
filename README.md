@@ -16,7 +16,7 @@ Is Singapore a good place to live/work in?
 
 📝 Sub Hypothesis
 
-- Damian :Saftey (Singapore is a very safe country)
+- Damian :Safety (Singapore is a very safe country)
 - Natelie : Education (Singapore has a good education system)
 - Amber: Healthcare (Singapore has a good healthcare system)
 - Javerine: Housing (Singapore has a good housing infrastructure)
@@ -119,7 +119,7 @@ In conclusion, Singapore provides a high-quality and accessible housing environm
 
 ## Difficulties 
 - Finding datasets that were reliable and meets my user requirements was a challenge 
-  - With hourse spend on researching and helps from seniors, I was able to achieve what I have today 
+  - With time spend on researching and help from seniors, I was able to achieve what I have today 
 
 ## Feedback Recieved For Presentation 
 - "Excellent visualization"
